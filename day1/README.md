@@ -1,6 +1,6 @@
 ## Tecnicas utilizdas
 
-*nth-child
-*transform
-*transform rotateZ
-*transform skewY
+* nth-child
+* transform
+* transform rotateZ
+* transform skewY

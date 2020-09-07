@@ -1,6 +1,6 @@
 ## O projeto
 
-Baseado no repo - 30 dias de css (https://github.com/MilenaCarecho/30diasDeCSS), o objetivo deste projeto é melhorar as skills do css.
+Baseado no repo - 30 dias de css (https://github.com/MilenaCarecho/30diasDeCSS), o objetivo deste projeto é melhorar as skills de css.
 
 Cada dia será feito 1 desafio:
 
