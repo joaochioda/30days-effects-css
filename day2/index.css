@@ -1,0 +1,33 @@
+body {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background: #dff9fb;
+    
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg)};
+}
+
+.text {
+    position: absolute;
+    width: 316px;
+    height: 316px;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    
+}
+
+.spinner {
+    width: 300px;
+    height: 300px;
+    border: 8px solid rgba(0,0,0, .1);
+    border-radius: 50%;
+    border-left-color: #22a6b3;
+    animation: spin 1s linear infinite;
+}
