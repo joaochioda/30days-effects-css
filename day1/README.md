@@ -1,3 +1,6 @@
+## Dia 1
+Ícone de mídia social em camadas
+
 ## Tecnicas utilizdas
 
 * nth-child

@@ -1,3 +1,6 @@
+## Dia 2
+Loader animado
+
 ## Tecnicas utilizdas
 
 * keyframe

@@ -1,0 +1,41 @@
+.red {
+    background: red;
+    position: absolute;
+    width: 50vw;
+    height: 100vh;
+    overflow: hidden;
+    color: white;
+    top: 0;
+    left: 0;
+    border-right: 3px solid purple;
+}
+
+.blue {
+    background: blue;
+    width: 50vw;
+    height: 100vh;
+}
+
+.main {
+   width: 100vw;
+   height: 100vh;
+   background: blue;
+   position: absolute;
+   box-sizing: border-box;
+   overflow: hidden;
+   color:yellow;
+}
+
+.text {
+    top: 50%;
+    position: absolute;
+    white-space: nowrap;
+    font-size: 8em;
+    overflow: hidden;
+    animation: roll 10s linear infinite;
+
+}
+
+@keyframes roll {
+    to { transform: translateX(-50%)};
+}
