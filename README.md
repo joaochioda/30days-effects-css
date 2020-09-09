@@ -45,3 +45,6 @@ Cada dia será feito 1 desafio:
 
 #### Dia3
 ![day3](https://user-images.githubusercontent.com/47106171/92512303-fac0d380-f1e4-11ea-84be-d31a69de8f70.gif)
+
+#### Dia4
+![day4](https://user-images.githubusercontent.com/47106171/92660285-7ea3ba00-f2d0-11ea-9d9a-49b2816ca19e.gif)
