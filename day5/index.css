@@ -1,0 +1,41 @@
+body {
+    background: #636e72;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.circle {
+    background: rgb(253, 121, 168 , 1);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    animation: 2s pulse linear infinite;
+}
+
+.text {
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+@keyframes pulse {
+    0%{
+        transform: scale(0.9);
+        box-shadow: 0 0 0 0px rgb(253, 121, 168, 0.7)
+    }
+    50%{
+        transform: scale(1);
+        box-shadow: 0 0 0 40px rgb(253, 121, 168, 0)
+    }
+
+    100%{
+        transform: scale(0.9);
+    }
+}
+
+

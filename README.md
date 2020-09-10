@@ -35,6 +35,9 @@ Cada dia será feito 1 desafio:
 * Dia 29 - Menu responsivo com Media Queries
 * Dia 30 - Fogos de artificio
 
+## Site bem legal com cores
+https://flatuicolors.com/
+
 ## Resultados
 
 #### Dia 1
@@ -48,3 +51,6 @@ Cada dia será feito 1 desafio:
 
 #### Dia4
 ![day4](https://user-images.githubusercontent.com/47106171/92660285-7ea3ba00-f2d0-11ea-9d9a-49b2816ca19e.gif)
+
+#### Dia5
+![dia5](https://user-images.githubusercontent.com/47106171/92765673-ef4be480-f36b-11ea-9e4d-d09118998c13.gif)
