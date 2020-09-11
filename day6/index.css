@@ -1,0 +1,53 @@
+body {
+    background: rgb(25, 42, 86);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-size: 200px;
+    font-weight: 700;
+    letter-spacing: 20px;
+    color: #273c75;
+}
+
+body span {
+    animation: colorful 1.2s linear infinite;
+}
+
+body span:nth-child(1) {
+    animation-delay: 0s;
+}
+
+body span:nth-child(2) {
+    animation-delay: 0.1s;
+}
+
+body span:nth-child(3) {
+    animation-delay: 0.2s;
+}
+
+body span:nth-child(4) {
+    animation-delay: 0.3s;
+}
+
+body span:nth-child(5) {
+    animation-delay: 0.4s;
+}
+
+@keyframes colorful {
+    0% {
+		color: #273c75;
+		text-shadow: none;
+	}
+
+	90% {
+		color: #273c75;
+		text-shadow: none;
+	}
+
+	100% {
+		color: #fff900;
+		text-shadow: 0 0 7px #fff900, 0 0 50px #ff6c00;
+	}
+
+}
