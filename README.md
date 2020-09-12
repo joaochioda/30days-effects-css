@@ -57,3 +57,6 @@ https://flatuicolors.com/
 
 #### Dia6
 ![day6](https://user-images.githubusercontent.com/47106171/92930531-938b6500-f418-11ea-9ce2-05d15dd2c535.gif)
+
+#### Dia7
+![dia7](https://user-images.githubusercontent.com/47106171/93006977-7e5a2780-f539-11ea-8125-a9c525fad80a.gif)
