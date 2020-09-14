@@ -1,0 +1,59 @@
+body {
+    background: #E91E63;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heart {
+    position: absolute;
+    transform: rotate(-45deg);
+    animation: beating 1s linear infinite;
+
+}
+.heartr{
+    width: 170;
+    height: 100;
+    
+    background: #4A148C;
+    position: absolute;
+    border-radius: 0px 50px 50px 0px;
+
+}
+
+.heartl{
+    width: 170;
+    height: 100;
+    background: #4A148C;
+    transform: rotate(-90deg);
+    position: absolute;
+    left: -35px;
+    bottom: -61px;
+    border-radius: 0px 50px 50px 0px;
+}
+
+@keyframes beating {
+    0% {
+        transform: rotate(-45deg) scale(1); 
+    } 
+
+    25% {
+        transform: rotate(-45deg) scale(1.1);
+
+    }
+
+    50% {
+        transform: rotate(-45deg) scale(0.8);
+
+    }
+
+
+    75% {
+            transform: rotate(-45deg) scale(1.2);
+
+        }
+    100% {
+        transform: rotate(-45deg) scale(1);
+
+    }
+}
