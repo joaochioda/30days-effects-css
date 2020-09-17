@@ -1,0 +1,41 @@
+body {
+    background: #f6e58d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Grandstander', cursive;
+    font-size: 38px;
+}
+
+body div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+span::before {
+    font-size: 72px;
+    animation: emoji 2s infinite;
+    content: '';
+}
+
+@keyframes emoji {
+
+    0% {
+        content: '🍟';
+    }
+    33% {
+        content: '🦄';
+    }
+
+    66% {
+        content: '🤷‍♂️';
+    }
+
+    100% {
+        content: '🍟';
+    }
+}
