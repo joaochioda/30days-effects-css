@@ -1,0 +1,31 @@
+body {
+    background: #30336b;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    position: relative;
+}
+
+span {
+    color: white;
+    font-size: 90px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    border: 1px solid;
+    position: relative;
+}
+
+span::before {
+    content: "DesafioJao38";
+    color: red;
+    width: 0%;
+    overflow: hidden;
+    position: absolute;
+    transition: all 0.8s;
+}
+
+span:hover::before {
+    width: 100%;
+}
