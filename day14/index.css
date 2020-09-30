@@ -1,0 +1,31 @@
+body {
+    background: #2f3640;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    position: relative;
+    color: #273c75;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 250px;
+    line-height: 1;
+    background: url("universe.jpeg");
+    background-size: 1000px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 3px black;
+    animation: move 10s linear infinite;
+}
+
+@keyframes move {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 500px -1000px;
+    }
+}
