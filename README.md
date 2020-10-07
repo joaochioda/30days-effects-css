@@ -37,6 +37,7 @@ Cada dia será feito 1 desafio:
 
 ## Site bem legal com cores
 https://flatuicolors.com/
+https://coolors.co/palettes/popular
 
 ## Resultados
 
@@ -84,3 +85,6 @@ https://flatuicolors.com/
 
 #### Dia15
 ![dia15](https://user-images.githubusercontent.com/47106171/95255768-440e3e00-07f8-11eb-870c-7700177ba8d6.gif)
+
+#### Dia16
+![dia16](https://user-images.githubusercontent.com/47106171/95384310-cfec9c80-08c2-11eb-83a4-f9e7cc9d3b86.gif)
