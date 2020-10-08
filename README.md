@@ -88,3 +88,6 @@ https://coolors.co/palettes/popular
 
 #### Dia16
 ![dia16](https://user-images.githubusercontent.com/47106171/95384310-cfec9c80-08c2-11eb-83a4-f9e7cc9d3b86.gif)
+
+#### Dia17
+![dia17](https://user-images.githubusercontent.com/47106171/95517497-7dc97b00-0997-11eb-8400-66704de0b03f.gif)
